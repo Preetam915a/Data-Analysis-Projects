@@ -1,20 +1,21 @@
-# Data-Analysis-Projects
-# Bank Marketing Analysis
+# Data Analysis Projects
 
-## Overview
-This project analyzes a bank marketing dataset using Python and Pandas.
+This repository contains my Data Analyst portfolio projects built using Python, Pandas, and Matplotlib.
 
-## Skills Demonstrated
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+## Projects
+
+### 1. Bank Marketing Analysis
+- Python
 - Pandas
-- NumPy
-- Jupyter Notebook
+- Data Cleaning
+- Exploratory Data Analysis
 
-## Files
-- Bank_Marketing_Inspection_test.ipynb
-- bankmarketing.csv
+### 2. Sales Performance Analysis
+- Python
+- Pandas
+- Matplotlib
+- Sales Trend Analysis
+- Business Insights
 
 ## Author
 Preetam Yadav
